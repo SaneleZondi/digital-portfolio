@@ -1,4 +1,4 @@
-# 🎓 Digital Portfolio - PRP372S
+# 🎓Sanele Trueman Zondi's Digital Portfolio - PRP372S
 
 ## 👤 Student Information
 - **Name:** Sanele Trueman Zondi  
@@ -79,4 +79,4 @@
 ## 🔗 Final Notes
 This portfolio showcases my preparation and reflection for work readiness. It demonstrates how I have evolved as a developer and a professional ready for the workplace.
 
-> View this repository on GitHub: [https://github.com/SaneleZondi/digital-portfolio-prp370](https://github.com/SaneleZondi/digital-portfolio-prp370)
+> View this repository on GitHub: [https://github.com/SaneleZondi/digital-portfolio](https://github.com/SaneleZondi/digital-portfolio)
