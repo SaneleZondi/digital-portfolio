@@ -1,4 +1,4 @@
-# 🎓 Digital Portfolio - PRP370-1-2S
+# 🎓 Digital Portfolio - PRP372S
 
 ## 👤 Student Information
 - **Name:** Sanele Trueman Zondi  
