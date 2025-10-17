@@ -5,7 +5,7 @@
 - **Student Number:** 221602011  
 - **Qualification:** Diploma in ICT: Applications Development  
 - **Module Code:** PRP372S  
-- **Assessment Date:** 23 May 2025  
+- **Assessment Date:** 18 October 2025  
 
 ---
 
@@ -77,13 +77,6 @@
 ---
 
 # 🧩 PRP370-1-2S Final Summative Assessment (November 2025)
-### 👨🏽‍💻 Digital Portfolio by Sanele Trueman Zondi
-**Qualification:** Diploma in ICT: Applications Development  
-**Institution:** Cape Peninsula University of Technology (CPUT)  
-**Lecturer:** P. Inderlal  
-**Module:** Project Presentation 3  
-**Date:** November 2025  
-
 ---
 
 ## 📘 Overview
@@ -95,48 +88,51 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 ## 1️⃣ Business Communication
 
 ### 🧾 Evidence
-- Completed online **Business Communication Module** (CPUT Work Readiness Training).  
-- Drafted professional emails and a progress report for the **UniStay Project** as part of my project management duties.  
-- Practiced formal and informal communication through team coordination on GitHub and WhatsApp.  
-- Created a PowerPoint presentation summarizing project milestones.
+- Completed online **Business Communication Module** (CPUT Work Readiness Training).    
+- Practiced formal and informal communication through team coordination on GitHub and WhatsApp.
+- [Module Completion Proof](business-communication/business.png)
+- [Module Submission Proof](business-communication/business-submission.png)
 
-### 💭 Reflection (STAR Technique)
-**Situation:** During the UniStay project, I noticed communication gaps between developers and secretaries regarding frontend updates.  
-**Task:** My role as Project Manager required me to ensure that all communication was clear, professional, and documented.  
-**Action:** I implemented structured email updates, set weekly meetings, and wrote concise reports summarizing each sprint.  
-**Result:** Team productivity improved significantly, deadlines were met more consistently, and communication became professional and traceable — reflecting strong business communication skills I can apply in future workplaces.
+### 🧠 Reflection (STAR)
+**S:** Communication challenges arose during the UniStay project between developers and support members.  
+**T:** As Project Manager, I had to establish clear and professional communication standards.  
+**A:** I used structured reports, email templates, and weekly meetings to align team progress.  
+**R:** The process improved productivity, reduced misunderstandings, and enhanced my ability to communicate professionally in a work setting.
 
 ---
 
-## 2️⃣ Interview Skills
+## 7. 🎤 Interview Skills
 
 ### 🧾 Evidence
-- Participated in mock interview sessions during work readiness training.  
-- Prepared responses to common technical and behavioral questions.  
+- Participated in mock interview sessions during work readiness training.   
 - Practiced with peers using the STAR technique to improve structure and clarity.  
 - Reviewed feedback from lecturers on confidence, tone, and body language.
+- [Interview Course](interview-skills/interview-course.png)  
+- [Interview Submission](interview-skills/interview-submission.png)  
 
-### 💭 Reflection (STAR Technique)
-**Situation:** During a mock interview for a Junior Developer position, I initially struggled to structure responses effectively.  
-**Task:** My goal was to communicate my skills and project experiences clearly and confidently.  
-**Action:** I practiced the STAR method, focusing on aligning my answers to real-world examples like the UniStay and Apartment Rental System projects.  
-**Result:** My answers became more structured and impactful, increasing my confidence and improving my overall interview performance.
+### 🧠 Reflection (STAR)
+**S:** During a practice interview, I struggled to organize my answers clearly.  
+**T:** I needed to improve how I present my experience and skills.  
+**A:** I practiced answering questions using the STAR format and included real examples from my projects.  
+**R:** My responses became structured and confident, which strengthened my readiness for real technical interviews.
 
 ---
 
 ## 3️⃣ Mock Interview
 
 ### 🧾 Evidence
-- Attended a **mock interview session** via Microsoft Teams with CPUT facilitators.  
-- Shared my GitHub portfolio link and discussed key projects (UniStay & Apartment Rental System).  
+- Made a **mock interview** and submitted to my co-ordinator.  
+- Shared my GitHub portfolio link
 - Received feedback on professionalism, eye contact, and self-presentation.  
 - Integrated feedback into my CV and portfolio for future interviews.
+- [Mock Interview Submission](mock-interview/mock-interview.png)  
+- [Mock Interview Video](mock-interview/mock-interview.mp4) 
 
-### 💭 Reflection (STAR Technique)
-**Situation:** I was invited to participate in a formal mock interview with a panel simulating a tech company setting.  
-**Task:** My task was to present myself as a competent ICT graduate ready for employment.  
-**Action:** I prepared by reviewing my portfolio, rehearsing technical questions, and refining my self-introduction.  
-**Result:** I demonstrated strong confidence, clear articulation, and professional demeanor. The feedback highlighted that I am well-prepared for real-world interviews and have developed a strong understanding of workplace expectations.
+### 🧠 Reflection (STAR)
+**S:** I participated in a virtual mock interview with CPUT facilitators.  
+**T:** Present myself as a professional ICT graduate ready for industry.  
+**A:** I prepared by reviewing my portfolio, CV, and technical experience.  
+**R:** The feedback confirmed my professionalism and presentation skills. I now feel confident in my ability to perform in real job interviews.
 
 ---
 
@@ -146,13 +142,15 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 - Updated and maintained my **LinkedIn profile**: [www.linkedin.com/in/sanele-trueman-zondi-710917234/](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/).  
 - Connected with classmates, lecturers, and professionals in software development.  
 - Shared my GitHub repositories to showcase my technical skills.  
-- Attended online tech webinars and university networking sessions.  
+- Attended online tech webinars and university networking sessions.
+- [View My LinkedIn Profile](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/)
+- [Professional Networking Course](professional-networking/professional.png)  
 
-### 💭 Reflection (STAR Technique)
-**Situation:** As I prepared for industry entry, I realized my professional presence online was limited.  
-**Task:** I needed to build a network to learn from industry peers and create visibility for career opportunities.  
-**Action:** I updated my LinkedIn profile, posted about my projects, and connected with ICT professionals and alumni.  
-**Result:** My professional network grew, and I gained insights into job trends, interview tips, and internship opportunities — strengthening my employability and confidence in networking environments.
+### 🧠 Reflection (STAR)
+**S:** I realized my online presence could be improved to attract professional opportunities.  
+**T:** I aimed to build a stronger professional network in the ICT field.  
+**A:** I updated my LinkedIn profile, connected with lecturers and peers, and shared my GitHub projects.  
+**R:** I grew my professional connections and increased visibility within the ICT community, which opened potential job and collaboration opportunities.
 
 ---
 
@@ -162,14 +160,15 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 - Completed the **Workplace Etiquette Training Module** in Work Readiness.  
 - Practiced punctuality, respect, and collaboration during team projects.  
 - Learned about professional email tone, conflict resolution, and company hierarchy.  
-- Applied workplace ethics during project management duties in UniStay.
+- Applied workplace ethics to my projects.
+- [Workplace Etiquette Module](workplace-etiquette/workplace-module.png)  
+- [Workplace Etiquette Submission](workplace-etiquette/workplace-submission.png)  
 
-### 💭 Reflection (STAR Technique)
-**Situation:** During project collaboration, differences in coding opinions occasionally led to tension among team members.  
-**Task:** As Project Manager, I needed to maintain professionalism and ensure team harmony.  
-**Action:** I encouraged respectful communication, acknowledged each member’s input, and reminded the team of project goals.  
-**Result:** Conflicts were resolved quickly, collaboration improved, and I developed strong workplace etiquette skills — including respect, professionalism, and accountability — that are essential in any ICT role.
-
+### 🧠 Reflection (STAR)
+**S:** Team disagreements occasionally occurred during group development tasks.  
+**T:** As team leader, I had to model professionalism and resolve conflicts calmly.  
+**A:** I encouraged respectful communication, punctuality, and mutual accountability.  
+**R:** These experiences improved my interpersonal skills and understanding of workplace conduct, preparing me for real-world collaboration.
 ---
 
 ## 🏁 Conclusion
@@ -178,8 +177,9 @@ I have developed and reflected on essential workplace competencies including com
 
 ---
 
-**GitHub Portfolio Link:** [https://github.com/SaneleZondi](https://github.com/SaneleZondi)  
-**LinkedIn Profile:** [www.linkedin.com/in/sanele-trueman-zondi-710917234/](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/)
+## 🔗 Connect With Me
+- **GitHub:** [https://github.com/SaneleZondi](https://github.com/SaneleZondi)  
+- **LinkedIn:** [www.linkedin.com/in/sanele-trueman-zondi-710917234/](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/)
 
 ## 🔗 Final Notes
 This portfolio showcases my preparation and reflection for work readiness. It demonstrates how I have evolved as a developer and a professional ready for the workplace.
