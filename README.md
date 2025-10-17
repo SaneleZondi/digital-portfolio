@@ -118,7 +118,7 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 
 ---
 
-## 3️⃣ Mock Interview
+## 8. 🎬Mock Interview
 
 ### 🧾 Evidence
 - Made a **mock interview** and submitted to my co-ordinator.  
@@ -136,7 +136,7 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 
 ---
 
-## 4️⃣ Professional Networking
+## 9. 🌐 Professional Networking
 
 ### 🧾 Evidence
 - Updated and maintained my **LinkedIn profile**: [www.linkedin.com/in/sanele-trueman-zondi-710917234/](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/).  
@@ -154,7 +154,7 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 
 ---
 
-## 5️⃣ Workplace Etiquette
+## 🔔 10. Workplace Etiquett
 
 ### 🧾 Evidence
 - Completed the **Workplace Etiquette Training Module** in Work Readiness.  
@@ -169,6 +169,7 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 **T:** As team leader, I had to model professionalism and resolve conflicts calmly.  
 **A:** I encouraged respectful communication, punctuality, and mutual accountability.  
 **R:** These experiences improved my interpersonal skills and understanding of workplace conduct, preparing me for real-world collaboration.
+
 ---
 
 ## 🏁 Conclusion
