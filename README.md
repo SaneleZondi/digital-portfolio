@@ -126,7 +126,8 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 - Received feedback on professionalism, eye contact, and self-presentation.  
 - Integrated feedback into my CV and portfolio for future interviews.
 - [Mock Interview Submission](mock-interview/mock-interview.png)  
-- [Mock Interview Video](mock-interview/mock-interview.mp4) 
+- [Mock Interview Video](mock-interview/mock-interview.mp4)
+- 🔗 [Mock Interview Repository](https://github.com/SaneleZondi/mock-intervie2)  
 
 ### 🧠 Reflection (STAR)
 **S:** I participated in a virtual mock interview with CPUT facilitators.  
@@ -139,7 +140,7 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 ## 9. 🌐 Professional Networking
 
 ### 🧾 Evidence
-- Updated and maintained my **LinkedIn profile**: [www.linkedin.com/in/sanele-trueman-zondi-710917234/](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/).  
+- Updated and maintained my **LinkedIn profile**
 - Connected with classmates, lecturers, and professionals in software development.  
 - Shared my GitHub repositories to showcase my technical skills.  
 - Attended online tech webinars and university networking sessions.
