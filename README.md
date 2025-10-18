@@ -1,4 +1,4 @@
-# 🎓 Sanele Trueman Zondi's Digital Portfolio – PRP372S & PRP370-1-2S
+# 🎓 Sanele Trueman Zondi's Digital Portfolio – Project Presentation 3(PRP372S)
 
 <div align="center">
 
