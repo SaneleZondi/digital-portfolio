@@ -145,7 +145,8 @@ Each section includes **evidence** and a **STAR reflection**, showcasing how I h
 - Shared my GitHub repositories to showcase my technical skills.  
 - Attended online tech webinars and university networking sessions.
 - [View My LinkedIn Profile](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/)
-- [Professional Networking Course](professional-networking/professional.png)  
+- [Professional Networking Course](professional-networking/professional.png)
+- - [Course Submission Proof](professional-networking/professional-submission.png)  
 
 ### 🧠 Reflection (STAR)
 **S:** I realized my online presence could be improved to attract professional opportunities.  
