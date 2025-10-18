@@ -5,31 +5,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanele-trueman-zondi-710917234/)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Work-black?style=for-the-badge&logo=github)](https://github.com/SaneleZondi)
 
-<img src="https://via.placeholder.com/800x200/2c3e50/ffffff?text=Professional+Digital+Portfolio" alt="Portfolio Header" width="800" height="200">
+<img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&h=200&fit=crop&crop=center&auto=format&q=80" alt="Portfolio Header" width="800" height="200">
 
 </div>
 
-## 📋 Table of Contents
-- [Student Information](#-student-information)
-- [Introduction](#-introduction)
-- [PRP372S – Work Readiness](#-prp372s--work-readiness-june-2025)
-- [PRP370-1-2S – Final Assessment](#-prp370-1-2s--final-summative-assessment-november-2025)
-- [Conclusion](#-conclusion)
-- [Connect With Me](#-connect-with-me)
 
----
-
-## 👤 Student Information
+## 👤 My Information
 
 <div align="center">
 
 | **Detail** | **Information** |
 |------------|-----------------|
-| **🎯 Name** | Sanele Trueman Zondi |
-| **🔢 Student Number** | 221602011 |
-| **📜 Qualification** | Diploma in ICT: Applications Development |
-| **📚 Modules** | PRP372S & PRP370-1-2S |
-| **📅 Assessment Date** | 18 October 2025 |
+| **Name** | Sanele Trueman Zondi |
+| **Student Number** | 221602011 |
+| **Qualification** | Diploma in ICT: Applications Development |
+| **Module** | PRP372S - Project Presentation 3 |
+| **Portfolio Date** | 18 October 2025 |
+| **Status** | Final Year Student |
 
 </div>
 
@@ -39,7 +31,7 @@
 
 Welcome to my **Digital Portfolio** — a comprehensive compilation of evidence, reflection, and professional growth activities completed during my Work Readiness Training at **Cape Peninsula University of Technology (CPUT)**.
 
-This portfolio documents my transformative journey from student to industry-ready graduate through both **PRP372S** (June 2025) and **PRP370-1-2S** (November 2025) modules, showcasing technical competence, professional development, and personal growth.
+This portfolio documents my transformative journey from student to industry-ready graduate through Project Presentation module, showcasing technical competence, professional development, and personal growth.
 
 ---
 
@@ -116,10 +108,10 @@ This portfolio documents my transformative journey from student to industry-read
 
 ---
 
-# 🧩 PRP370-1-2S – Final Summative Assessment (November 2025)
+# 🧩 PRP372S – Final Submission
 
 <div align="center">
-<h2 style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px; border-radius: 8px; margin: 20px 0;">PRP370-1-2S – Final Summative Assessment (November 2025)</h2>
+<h2 style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px; border-radius: 8px; margin: 20px 0;">PRP372S – Final Portfolio Submission</h2>
 </div>
 
 ## 📘 Overview
@@ -246,6 +238,12 @@ This repository serves as a comprehensive reflection of my **professional journe
 <div align="center">
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
+
+<div align="center" style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 16px;">
+
+### 🌟 Professional Philosophy
+
+> *"Quality is not an act, it is a habit. I believe in creating solutions that are not just functional, but exceptional – combining technical excellence with user-centered design to deliver meaningful impact."*
 
 **© 2025 Sanele Trueman Zondi | Cape Peninsula University of Technology**
 
