@@ -9,6 +9,20 @@
 
 </div>
 
+# 📑 Table of Contents
+
+<div align="center">
+
+| Section | Topics |
+|---------|--------|
+| **👤 My Information** | [Introduction](#-introduction) |
+| **🧩 PRP372S – Work Readiness** | [1. Career Counselling](#1️⃣-career-counselling)<br>[2. Skills & Interests](#2️⃣-skills-and-interests)<br>[3. Personality Assessment](#3️⃣-personality-assessment)<br>[4. Curriculum Vitae](#4️⃣-curriculum-vitae-cv)<br>[5. CV Submission](#5️⃣-cv-submission) |
+| **🧩 PRP372S – Final Submission** | [6. Business Communication](#6️⃣-business-communication)<br>[7. Interview Skills](#7️⃣-interview-skills)<br>[8. Mock Interview](#8️⃣-mock-interview)<br>[9. Professional Networking](#9️⃣-professional-networking)<br>[10. Workplace Etiquette](#10-workplace-etiquette) |
+| **🏁 Conclusion** | [Portfolio Summary](#-portfolio-summary)<br>[Connect With Me](#-connect-with-me)<br>[Final Notes](#final-notes) |
+
+</div>
+
+---
 
 ## 👤 My Information
 
@@ -187,7 +201,7 @@ This section demonstrates my continued professional growth in communication, int
 
 ---
 
-## 🔟 Workplace Etiquette
+## 10 Workplace Etiquette
 
 ### ✅ Evidence
 - ✅ Completed **Workplace Etiquette Training Module** (Work Readiness Program)  
@@ -227,7 +241,7 @@ This **Digital Portfolio** showcases my complete academic and professional readi
 
 ---
 
-## ✍️ Final Notes
+## Final Notes
 
 > 🔗 **View this repository live on GitHub:** [https://github.com/SaneleZondi/digital-portfolio](https://github.com/SaneleZondi/digital-portfolio)
 
